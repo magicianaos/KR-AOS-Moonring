@@ -1,0 +1,31 @@
+================================================================
+  이 패치에 포함된 폰트
+================================================================
+
+두 폰트 모두 SIL Open Font License 1.1 로 배포됩니다.
+전문은 같은 폴더의 OFL-1.1.txt 를 보십시오.
+
+
+1) 네오둥근모 (NeoDunggeunmo)  v1.601
+   Original font was released under the public domain by Jungtae Kim
+   in 1990s. Conversion and additional character design by Dalgona.
+   <me@dalgona.dev>
+   라이선스 : SIL Open Font License 1.1
+   https://scripts.sil.org/OFL
+
+   게임 안에서 "픽셀" 폰트로 쓰입니다.
+
+
+2) Pretendard  v1.309
+   Copyright (c) 2023 Kil Hyung-jin (길형진)
+   https://orioncactus.com/
+   Base glyphs from Inter by Rasmus Andersson;
+   Hangeul glyphs from Noto Sans CJK (Source Han Sans).
+   라이선스 : SIL Open Font License 1.1
+   https://scripts.sil.org/OFL
+
+   게임 안에서 "고딕" 폰트로 쓰입니다.
+
+
+폰트 파일 자체는 수정하지 않았습니다.
+게임 화면에 쓰이는 비트맵 글꼴은 위 폰트를 렌더링해 만든 것입니다.

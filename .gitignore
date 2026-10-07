@@ -1,0 +1,10 @@
+# 배포 zip은 Releases로, 게임 경로는 PC마다 다름
+배포/*.zip
+한글패치/game_path.txt
+한글패치/src/
+한글패치/build/
+한글패치/dist/
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
